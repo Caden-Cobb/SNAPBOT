@@ -1,5 +1,5 @@
 # SNAPBot-pt-2
-Use this alongside the [auto-clicker](https://murgaa.com) for a fully autonomous snap score bot. 
+Use this alongside the [auto-clicker](https://murgaa.com) for a fully autonomous snap score bot. (Use [THESE time](https://drive.google.com/file/d/1xz3ZlKIa09hNs7gcDrbt-MsZmr5cDJBc/view?usp=sharing) values for 10.8k an hour.)
 
 
 
