@@ -1,5 +1,5 @@
 # SNAPBot-pt-2
-Use this alongside the [auto-clicker][url](https://murgaa.com) for a fully autonomous snap score bot. 
+Use this alongside the [auto-clicker](https://murgaa.com) for a fully autonomous snap score bot. 
 
 
 
@@ -9,7 +9,7 @@ Step Two: From here select a key to select mouse postion (Via the auto clicker) 
 
 Step Three: After successfully logging each location (Take snap, Send snap, Select, etc..) It's time to select a Key, in my case "Q" to execute the auto-clicker. 
 
-Step Four: Download the "main.py" file, You will need the following libraries installed: (pyautogui,schedule) Use the simple pip command in the terminal to install them. You will also need a [CHROMEDRIVER]([url](https://googlechromelabs.github.io/chrome-for-testing/)) downloaded extracted and placed in the same folder as yo
+Step Four: Download the "main.py" file, You will need the following libraries installed: (pyautogui,schedule) Use the simple pip command in the terminal to install them. You will also need a [CHROMEDRIVER](https://googlechromelabs.github.io/chrome-for-testing/) downloaded extracted and placed in the same folder as yo
 ur "main.py"  
 
 Step Five: Go to your IDE and run the script whilst in a timely manner opening your chrome browser with snap and setting it to full screen, The script will then begin.
