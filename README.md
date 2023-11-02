@@ -1,5 +1,5 @@
 # SNAPBot-pt-2
-Use this alongside the [auto-clicker]([url](https://murgaa.com)) for a fully autonomous snap score bot. 
+Use this alongside the [auto-clicker][url](https://murgaa.com) for a fully autonomous snap score bot. 
 
 
 
