@@ -1,5 +1,5 @@
 # SNAPBot-pt-2
-Use this alongside the [auto-clicker](https://murgaa.com) for a fully autonomous snap score bot. (Use [THESE time](https://drive.google.com/file/d/1xz3ZlKIa09hNs7gcDrbt-MsZmr5cDJBc/view?usp=sharing) values for 10.8k an hour.)
+Use this alongside the [auto-clicker](https://murgaa.com) for a fully autonomous snap score bot. (Use [THESE time](https://drive.google.com/file/d/1xz3ZlKIa09hNs7gcDrbt-MsZmr5cDJBc/view?usp=sharing) values for ~10.8k an hour.)
 
 
 
@@ -12,7 +12,7 @@ Step Three: After successfully logging each location (Take snap, Send snap, Sele
 Step Four: Download the "main.py" file, You will need the following libraries installed: (pyautogui,schedule) Use the simple pip command in the terminal to install them. You will also need a [CHROMEDRIVER](https://googlechromelabs.github.io/chrome-for-testing/) downloaded extracted and placed in the same folder as yo
 ur "main.py"  
 
-Step Five: Go to your IDE and run the script whilst in a timely manner opening your chrome browser with snap and setting it to full screen, The script will then begin.
+Step Five: Go to your IDE and run the script whilst in a timely manner opening your chrome browser with snap and setting it to full screen, The script will then begin, click your start key to initiate the auto clicker. 
 
 At this point your snap score bot should be working.... I reccomend you tune the time in between clicks as quick as your pc can handle. In doing so, You should expect a 200k+ Snap score increase every 24 hours.
 
