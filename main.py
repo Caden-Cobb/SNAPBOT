@@ -1,6 +1,7 @@
-import pyautogui
+
+import pyautogui  # pip install pyautogui
 import time
-import schedule
+import schedule   # pip install schedule
 
 def refresh_page():
     pyautogui.press('q')
