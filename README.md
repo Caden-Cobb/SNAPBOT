@@ -9,13 +9,14 @@ Step Two: From here select a key to select mouse postion (Via the auto clicker) 
 
 Step Three: After successfully logging each location (Take snap, Send snap, Select, etc..) It's time to select a Key, in my case "Q" to execute the auto-clicker. 
 
-Step Four: Download the "main.py" file, You will need the following libraries installed: (pyautogui,schedule) Use the simple pip command in the terminal to install them. You will also need a [CHROMEDRIVER](https://googlechromelabs.github.io/chrome-for-testing/) downloaded extracted and placed in the same folder as yo
-ur "main.py"  
+Step Four: Download the "main.py" file, You will need the following libraries installed: (pyautogui,schedule) Use the simple pip command in the terminal to install them. You will also need a [CHROMEDRIVER](https://googlechromelabs.github.io/chrome-for-testing/) downloaded extracted and placed in the same directory as your "main.py" file.
 
 Step Five: Go to your IDE and run the script whilst in a timely manner opening your chrome browser with snap and setting it to full screen, The script will then begin, click your start key to initiate the auto clicker. 
 
 At this point your snap score bot should be working.... I reccomend you tune the time in between clicks as quick as your pc can handle. In doing so, You should expect a 200k+ Snap score increase every 24 hours.
 
+
+(This requires you to have added accounts willing to receive the messages, I use 9 to achieve the 200k.)
 
 
 
